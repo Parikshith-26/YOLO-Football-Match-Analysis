@@ -87,6 +87,5 @@ Applies perspective transformation to convert pixel measurements to real-world m
 ### Speed and Distance Estimator
 Calculates player speed and distance covered based on transformed coordinates.
 
-## Credits
 
-Based on the tutorial by Abdullah Tarek: https://github.com/abdullahtarek/football_analysis
+
